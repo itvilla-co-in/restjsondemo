@@ -1,0 +1,14 @@
+{
+	"id": 1,
+	"firstName": "Amit",
+	"lastName": "teja",
+	"status": true,
+	"address": {
+		"street": "101 Balaye",
+		"city": "Tampa",
+		"state": "Florida",
+		"zip": "36657",
+		"country": "USA"
+	},
+	"languages" : ["COBOL", "DB2", "JCL", "RUBY"]
+}
